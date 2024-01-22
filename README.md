@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mario Carrillo-Bello
-- 👀 I’m interested in software engineering work and quantitative research/trading work
-- 🌱 I’m currently learning systems programming
-- 🧑‍💻 I'm currently working on a buy and sell app for Columbia University students
+- 👀 I’m interested in machine learning/artificial intelligence and low-level systems
 - 📫 Feel free to reach me at carrillomario831@gmail.com
 
 <!---
