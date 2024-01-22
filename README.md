@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mario Carrillo-Bello
-- 👀 I’m interested in machine learning/artificial intelligence and low-level systems
+- 🧑‍💻 I am passionate about machine learning/artificial intelligence and low-level systems
 - 📫 Feel free to reach me at carrillomario831@gmail.com
 
 <!---
