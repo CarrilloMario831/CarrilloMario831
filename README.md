@@ -1,4 +1,4 @@
-Hi! I am Mario Carrillo-Bello, a Junior at Columbia University's School of Engineering and Applied Science, where I am pursuing a degree in Computer Science. My specialization lies in low-level systems/hardware and machine learning. 
+Hi! I am Mario Carrillo-Bello, a Junior at Columbia University's School of Engineering and Applied Science, where I am pursuing a degree in Computer Science. My specialization lies in low-level systems/hardware, security, and machine learning. 
 
 I am passionate about all things low-level and C/C++
 <!---
