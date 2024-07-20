@@ -1,4 +1,4 @@
-Hi! I am Mario Carrillo-Bello, a rising Senior at Columbia University's School of Engineering and Applied Science, where I am pursuing a degree in Computer Science. 
+Hi! I am Mario Carrillo-Bello, a Senior at Columbia University's School of Engineering and Applied Science, where I am pursuing a degree in Computer Science. 
 
 My specialization lies in low-level systems/hardware, security, and machine learning. 
 
